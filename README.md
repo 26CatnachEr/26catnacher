@@ -1,0 +1,57 @@
+# Hi there 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=26catnacher\&style=for-the-badge\&color=blue)](https://github.com/26catnacher)
+[![GitHub followers](https://img.shields.io/github/followers/26catnacher?style=for-the-badge)](https://github.com/26catnacher?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/26catnacher?affiliations=OWNER\&style=for-the-badge)](https://github.com/26catnacher?tab=repositories)
+[![GitHub last commit](https://img.shields.io/github/last-commit/26catnacher/erncat13?style=for-the-badge)](https://github.com/26catnacher/26CatnachEr)
+
+## about me
+
+I'm Ernie,
+
+I'm 14, from the UK, autistic and love coding in Python.
+
+This account is so I can access my personal projects from home.
+
+### see all my projects here:
+
+* [![All my projects](https://img.shields.io/badge/All%20my%20projects-blue?style=for-the-badge)](https://github.com/ernies-Organization)
+* [![Personal Account](https://img.shields.io/badge/Personal%20Account-blue?style=for-the-badge)](https://github.com/erncat13)
+
+## Cool Fact!
+
+I am 99% sure that I am the only Ernie Catnach in the world.
+
+## what you will find here
+
+I will post any projects I want to make. I publish random stuff at unpredictable times. (British joke incoming.) It's like British weather; boiling one hour, freezing the next. One day a Minecraft plugin, the next a website.
+
+---
+
+## Disclaimer
+
+The content provided herein is intended strictly for educational purposes. Any misuse or abuse of this information that contradicts this purpose, including but not limited to the unauthorized distribution, reproduction, or alteration of content, or the use of information for illicit or unethical activities, is strictly prohibited and may constitute a violation of applicable laws and regulations. This could lead to serious consequences, including legal action.
+
+Educational resources are to be used responsibly, ethically, and with integrity. I reserve the right to restrict access to these resources for anyone found violating these terms. I also reserve the right to change any important information without notice.
+
+---
+
+## Licence
+
+Unless otherwise stated, all content across my repositories (including those under `@erncat13`, `@26CatnachEr`, and my shared organization `@ernies-Organization`) is licensed under the [MIT Licence](LICENSE). 
+
+*(Note: These handles and organizations are all used interchangeably for my projects).*
+
+**© Ernie Catnach 2026**
+
+---
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26catnacher&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26catnacher&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=26catnacher&theme=transparent)
+
+</details>
